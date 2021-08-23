@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="sendmail" type="PLAIN_TEXT" />
+      <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="ab" type="PLAIN_TEXT" />
       <mapping pattern="tst" type="PLAIN_TEXT" />
       <mapping ext="postfix" type="PLAIN_TEXT" />
